@@ -1,13 +1,17 @@
 body{
 	background:palevioletred;
+	font-family: 'Varela Round', sans-serif;
 
 }
 li{
 	display:inline-block;
+	border:solid blue 5px;
+	font-family: 'Varela Round', sans-serif;
 }
 p{
 	background:peachpuff;
+	font-family: 'Varela Round', sans-serif;
 }
-div{
+.pictures{
 	display:inline-block;
 }
