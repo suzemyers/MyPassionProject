@@ -1,1 +1,13 @@
-body{color:peachpuff;}
+body{
+	background:palevioletred;
+
+}
+li{
+	display:inline-block;
+}
+p{
+	background:peachpuff;
+}
+div{
+	display:inline-block;
+}
