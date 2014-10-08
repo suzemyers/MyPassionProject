@@ -12,6 +12,27 @@ p{
 	background:peachpuff;
 	font-family: 'Varela Round', sans-serif;
 }
+
+div{
+	margin: 0 auto;
+	text-align: center;
+}
 .pictures{
+	margin: 0 auto;
+	text-align: center;
 	display:inline-block;
+
+}
+.fifty img{
+	width: 50%;
+}
+.center{
+	margin: 0 auto;
+	text-align: center;
+}
+.right{
+	float: right;
+}
+.left{
+	float:left;
 }
