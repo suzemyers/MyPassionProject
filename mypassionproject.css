@@ -5,8 +5,10 @@ body{
 }
 li{
 	display:inline-block;
-	border:solid blue 5px;
+	border:dotted white 3px;
 	font-family: 'Varela Round', sans-serif;
+	padding:40px;
+	letter-spacing:30px;
 }
 p{
 	background:peachpuff;
@@ -24,7 +26,7 @@ div{
 
 }
 .fifty img{
-	width: 50%;
+	width: 75%;
 }
 .center{
 	margin: 0 auto;
@@ -35,4 +37,10 @@ div{
 }
 .left{
 	float:left;
+}
+.justify{
+	text-align: center;
+}
+.bluetext{
+	color:blue;
 }
